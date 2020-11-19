@@ -1,0 +1,23 @@
+{
+  "name": "repo-hw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivanov-DM/repo-hw2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivanov-DM/repo-hw2/issues"
+  },
+  "homepage": "https://github.com/Ivanov-DM/repo-hw2#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
